@@ -4,7 +4,7 @@
 Okul bilgi sisteminde, okula ait bilgilerin saklanması ve yönetilmesi söz konusudur.
 Okulda, bina, derslik, fakülte, bölüm, ders, açılan ders, öğretim üyesi, öğrenci ve derse kayıt yaptırma gibi işlemleri yönetilmek için bilgiler bir tabloya saklanacaktır.
 ## İş Kuralları:
-•	Okul bilgi sistemindeki verilerin işlenmesi için bir yöneticiye (Admin) ihtiyaç vardır.
+•--	Okul bilgi sistemindeki verilerin işlenmesi için bir yöneticiye (Admin) ihtiyaç vardır.
 •	Okul, binalar ve fakültelerden oluşur.
 •	Okul bilgeleri içerisinde okul id numarası, adı , iletişim bilgileri ve yeri bilgileri bulunmalıdır.
 •	İletişim bilgeleri ve adres bilgileri ayrı ayrı okul tablosundan başka tabloda saklanacaktır.

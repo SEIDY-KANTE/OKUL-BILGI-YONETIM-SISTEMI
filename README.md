@@ -57,6 +57,7 @@ Okulda, bina, derslik, fakülte, bölüm, ders, açılan ders, öğretim üyesi,
 -	town(townId:int, townName:varchar, regionId:int)
 -	statistic(id: serial, total_student:int, female_student:int , male_student:int, total_teacher:int, female_teacher:int, male_teacher:int, student_enrolled:int, total_course:int, total_class:int, total_faculty:int, total_department:int, total_building:int, total_room:int, total_prof:int, total_dr:int, total_lec:int)
 
+## VARLIK BAĞINTI DİAGRAMI 
 
 ![ENTITY-RELATIONSHIP-DIAGRAM](https://user-images.githubusercontent.com/82980518/146653251-bb561ef0-d88b-4baf-b13e-afab3b41b085.png)
 

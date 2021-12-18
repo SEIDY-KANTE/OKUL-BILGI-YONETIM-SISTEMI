@@ -59,7 +59,7 @@ Okulda, bina, derslik, fakülte, bölüm, ders, açılan ders, öğretim üyesi,
 
 ## VARLIK BAĞINTI DİAGRAMI 
 
+![ENTITY-RELATIONSHIP-DIAGRAM](https://user-images.githubusercontent.com/82980518/146655314-ed88dd65-d71b-4fe1-9463-891710803b08.png)
 
-![ENTITY-RELATIONSHIP-DIAGRAM](https://user-images.githubusercontent.com/82980518/146655104-5830635d-bdb1-4748-b360-c86af0956c41.png)
 
 

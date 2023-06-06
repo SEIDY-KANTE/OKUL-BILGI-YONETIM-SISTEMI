@@ -1,5 +1,4 @@
-# VERİ TABANI YÖNETİM SİSTEMİ PROJESİ
-
+# OKUL BİLGİ YÖNETİM SİSTEMİ (VTYS PROJESİ) 
 ## Kısa tanıtımı (Senaryo):
 Okul bilgi sisteminde, okula ait bilgilerin saklanması ve yönetilmesi söz konusudur.
 Okulda, bina, derslik, fakülte, bölüm, ders, açılan ders, öğretim üyesi, öğrenci ve derse kayıt yaptırma gibi işlemleri yönetilmek için bilgiler bir tabloda saklanacaktır.
